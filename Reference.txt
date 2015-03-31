@@ -16,3 +16,5 @@ http://jsonlint.com/
 http://json-p.org/validator.html
 
 http://jsonformatter.curiousconcept.com/
+
+http://www.bennadel.com/blog/2327-cross-origin-resource-sharing-cors-ajax-requests-between-jquery-and-node-js.htm
